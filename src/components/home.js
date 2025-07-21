@@ -1055,7 +1055,7 @@ export default function Home() {
       </footer>
 
       <div className="fixed bottom-6 right-6 flex flex-col gap-4 z-50">
-        <a href="https://wa.me/918688810980" target="_blank" rel="noopener noreferrer" className="bg-green-500 hover:bg-green-600 text-white p-3 rounded-full shadow-xl transition-all transform hover:scale-110">
+        <a href="https://wa.me/9963054319" target="_blank" rel="noopener noreferrer" className="bg-green-500 hover:bg-green-600 text-white p-3 rounded-full shadow-xl transition-all transform hover:scale-110">
           <FaWhatsapp className="w-6 h-6" />
         </a>
         <a href="https://www.instagram.com/your_instagram_username" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-br from-pink-500 via-red-500 to-yellow-500 hover:opacity-90 text-white p-3 rounded-full shadow-xl transition-all transform hover:scale-110">
