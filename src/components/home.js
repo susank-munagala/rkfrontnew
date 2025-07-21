@@ -1046,7 +1046,7 @@ export default function Home() {
           </div>
           <div>
             <h4 className="text-lg font-semibold mb-3">Contact</h4>
-            <p className="text-sm text-gray-300">Phone: +91 86888 10980</p>
+            <p className="text-sm text-gray-300">Phone: +91 9963054319</p>
             <p className="text-sm text-gray-300">Email: rkballoons@gmail.com</p>
           </div>
         </div>
