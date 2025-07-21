@@ -507,7 +507,7 @@ const FadeInSection = ({ children, delay = 0 }) => (
   </motion.div>
 );
 
-const url_api = 'https://rkbackrailway-production.up.railway.app/';
+const url_api = 'https://rkbackrailway.vercel.app/';
 
 export default function Home() {
   // State variables
@@ -665,7 +665,7 @@ export default function Home() {
         )}
         <div className="bg-white/80 backdrop-blur-md shadow-sm border-b">
           <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
-            <h1 className="text-2xl font-extrabold tracking-wide text-indigo-700">RK Balloons</h1>
+            <h1 className="text-2xl font-extrabold tracking-wide text-indigo-700">Balloons Brilliant</h1>
             <Link to="/admin" className="bg-indigo-600 hover:bg-indigo-700 text-white px-4 py-2 rounded-xl text-sm shadow-md transition-transform transform hover:scale-105">
               Admin
             </Link>
