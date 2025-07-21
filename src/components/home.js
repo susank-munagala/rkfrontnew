@@ -507,7 +507,7 @@ const FadeInSection = ({ children, delay = 0 }) => (
   </motion.div>
 );
 
-const url_api = 'https://rkbackrailway.vercel.app/';
+const url_api = 'https://rkbackrailway-production.up.railway.app/';
 
 export default function Home() {
   // State variables
