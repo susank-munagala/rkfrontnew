@@ -5,7 +5,7 @@ import "slick-carousel/slick/slick-theme.css";
 import { toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
-const url = 'https://rkbackrailway-production.up.railway.app/';
+const url ='https://rkbackrailway.vercel.appl';// 'https://rkbackrailway-production.up.railway.app/';
 
 const CORRECT_PASSWORD = "123";
 
