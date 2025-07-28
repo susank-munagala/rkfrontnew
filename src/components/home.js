@@ -230,12 +230,12 @@ export default function Home() {
               />
               Balloons Brilliant Events
             </h1>
-            <!--Link
+{/*<Link
               to="/admin"
               className="bg-indigo-600 hover:bg-indigo-700 text-white px-4 py-2 rounded-xl text-sm shadow-md transition-transform transform hover:scale-105"
             >
               Admin
-            </Link-->
+            </Link>*/}
           </div>
         </div>
       </header>
