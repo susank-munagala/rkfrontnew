@@ -220,7 +220,7 @@ export default function Home() {
           </div>
         )}
 
-        <!--div className="bg-white/80 backdrop-blur-md shadow-sm border-b">
+        <div className="bg-white/80 backdrop-blur-md shadow-sm border-b">
           <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
             <h1 className="flex items-center text-2xl font-extrabold tracking-wide text-indigo-700">
               <img
@@ -230,14 +230,14 @@ export default function Home() {
               />
               Balloons Brilliant Events
             </h1>
-            <Link
+            <!--Link
               to="/admin"
               className="bg-indigo-600 hover:bg-indigo-700 text-white px-4 py-2 rounded-xl text-sm shadow-md transition-transform transform hover:scale-105"
             >
               Admin
-            </Link>
+            </Link-->
           </div>
-        </div-->
+        </div>
       </header>
 
       <section className="relative pt-20 overflow-hidden">
