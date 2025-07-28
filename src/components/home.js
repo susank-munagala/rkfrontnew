@@ -220,7 +220,7 @@ export default function Home() {
           </div>
         )}
 
-        <div className="bg-white/80 backdrop-blur-md shadow-sm border-b">
+        <!--div className="bg-white/80 backdrop-blur-md shadow-sm border-b">
           <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
             <h1 className="flex items-center text-2xl font-extrabold tracking-wide text-indigo-700">
               <img
@@ -237,7 +237,7 @@ export default function Home() {
               Admin
             </Link>
           </div>
-        </div>
+        </div-->
       </header>
 
       <section className="relative pt-20 overflow-hidden">
