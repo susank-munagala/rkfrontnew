@@ -7,7 +7,7 @@ import 'react-toastify/dist/ReactToastify.css';
 
 const url = 'https://rkbackrailway-production.up.railway.app/';
 
-const CORRECT_PASSWORD = "123";
+const CORRECT_PASSWORD = "Only@1";
 
 export default function AdminDashboard() {
   const [password, setPassword] = useState("");
